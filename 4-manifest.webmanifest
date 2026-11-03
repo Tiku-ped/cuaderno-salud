@@ -1,0 +1,14 @@
+{
+  "name": "Cuaderno de salud",
+  "short_name": "Cuaderno",
+  "description": "Cuaderno digital para guardar la información de salud de tus hijos, solo en tu teléfono.",
+  "lang": "es-CL",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4efec",
+  "theme_color": "#f4efec",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
